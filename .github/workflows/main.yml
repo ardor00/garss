@@ -34,4 +34,4 @@ jobs:
           git add README.md
           git add docs
           git commit -m "Github Action auto Updated"
-          git push
+          git push 
